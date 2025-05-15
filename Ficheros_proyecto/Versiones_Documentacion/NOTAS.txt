@@ -1,0 +1,15 @@
+- Texto Justificado
+- Siglas que no tiene por que saber todo el mundo (RPG, NPC, etc), por ejemplo un "glosario de términos" (significado y breve explicación).
+- 4.1.2 Recursos HW -> son los recursos necesarios para el desarrollo y lanzamiento elaboración del videojuego (los requisitos para ejecutarlo son opcionales).
+- 4.1.5 +  4.2 -> "Documentacion" tiene que ser transversal.
+- 5 Analisis de requisitos -> poner un nombre mas adaptado al proyecto/videojuego ("Descripción del videojuego", por ejemplo).
+- Descripción del personaje -> más estilo "ficha"
+- 5.1.2 Diagramas de caso de uso "relevantes" -> poner las más relevantes y las demás en un anexo.
+- Diagramas de caso de uso: el enlace lo tiene Ortuño
+- 6.2, 6.3 y 6.5 -> anexo. Dejar solo lo más relevante (tabla de la relación "tienen" u objetos más relevantes).
+- 6.5.2 -> podemos olvidarnos en principio
+- 7 Codificación -> si hacemos documentación en el código(JUnit, "javadoc"), no la ponemos en el documento; indicar por que utilizamos las tecnologías; nos olvidamos de: despliegue, sistemas de intgegración continua (software a trozos), pruebas?.
+
+
+----------------------
+Bibliografía -> fuentes de información (enlaces web, libros, etc)
