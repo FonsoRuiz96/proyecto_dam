@@ -5,6 +5,8 @@
 [Bb]uilds/
 [Ll]ogs/
 MemoryCaptures/
+Software/
+*.exe
 *.csproj
 *.unityproj
 *.sln
