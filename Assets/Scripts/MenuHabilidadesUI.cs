@@ -19,7 +19,6 @@ public class MenuHabilidadesUI : MonoBehaviour
     public CombatCtrl combatCtrl;
     
 
-
     public void MostrarHabilidades(int pjId)
     {
         // Limpiar botones anteriores
@@ -34,9 +33,13 @@ public class MenuHabilidadesUI : MonoBehaviour
             GameObject nuevoBoton = Instantiate(prefabBotonHabilidad, contenedorHabilidades.transform);
             nuevoBoton.name = hab.nombre;
 
-            // Configurar el texto del botón
             var texto = nuevoBoton.GetComponentInChildren<TMP_Text>();
             texto.text = hab.nombre;
+            
+            BotonHabilidad idHabilidad = nuevoBoton.GetComponent<BotonHabilidad>();
+            if (idHabilidad == null) idHabilidad = nuevoBoton.AddComponent<BotonHabilidad>();
+
+            idHabilidad.idHabilidad = hab.id;
             
         }
     }
@@ -59,14 +62,19 @@ public class MenuHabilidadesUI : MonoBehaviour
         nuevoFrame.transform.SetSiblingIndex(0);
         
         
-        foreach (ConsumibleData consumible in DatabaseLoader.ListaConsumibles(true))
+        foreach (ConsumibleData con in DatabaseLoader.ListaConsumibles(true))
         {
             GameObject nuevoBoton = Instantiate(prefabBotonConsumible, contenedorConsumibles.transform);
-            nuevoBoton.name = consumible.nombre;
+            nuevoBoton.name = con.nombre;
             
             // Configurar el texto del botón
             var texto = nuevoBoton.GetComponentInChildren<TMP_Text>();
-            texto.text = consumible.nombre + " x" + consumible.cantidad;
+            texto.text = con.nombre + " x" + con.cantidad;
+            
+            BotonConsumible consumible = nuevoBoton.GetComponent<BotonConsumible>();
+            if (consumible == null) consumible = nuevoBoton.AddComponent<BotonConsumible>();
+
+            consumible.idConsumible = con.id;
             
         }
     }

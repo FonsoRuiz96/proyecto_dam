@@ -10,6 +10,7 @@ public class HabilidadData
     public int vida { get; set; }
     public int ofensiva { get; set; }
     public int enferma { get; set; }
+    public int incapacita { get; set; }
     public string target_stat {get; set;}
     public string objetivo { get; set; }
     public int coste { get; set; }
