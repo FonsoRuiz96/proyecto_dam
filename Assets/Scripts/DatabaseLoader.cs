@@ -10,6 +10,60 @@ public class DatabaseLoader : MonoBehaviour
 {
     private static string dbPath = "URI=file:" + Application.streamingAssetsPath + "/game.db";
 
+    public static List<PersonajeData> AsignarPersonajes(bool aliados, bool? final)
+    {
+        List<PersonajeData> listaPersonajes = new List<PersonajeData>();
+
+        using (var connection = new SqliteConnection(dbPath))
+        {
+            connection.Open();
+            using (var command = connection.CreateCommand())
+            {
+                command.CommandText = "SELECT * FROM personajes_principales";
+
+                using (IDataReader reader = command.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        int id = reader.GetInt32(0);
+
+                        if (aliados)
+                        {
+                            if (id == 1 || id == 2 || id == 3 || id == 4)
+                            {
+                                listaPersonajes.Add(BuscarPersonaje(reader.GetInt32(0)));
+                            }
+                        }
+                        else
+                        {
+                            if (final != null)
+                            {
+                                if (final == true)
+                                {
+                                    if (id == 7 || id == 8 || id == 9)
+                                    {
+                                        listaPersonajes.Add(BuscarPersonaje(reader.GetInt32(0)));
+                                    }
+                                }
+                                else
+                                {
+                                    if (id == 5 || id == 6)
+                                    {
+                                        listaPersonajes.Add(BuscarPersonaje(reader.GetInt32(0)));
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            connection.Close();
+        }
+
+        return listaPersonajes;
+    }
+
     public static PersonajeData BuscarPersonaje(int pjId)
     {
         PersonajeData pj = null;
@@ -23,7 +77,7 @@ public class DatabaseLoader : MonoBehaviour
                 command.CommandText = "SELECT * FROM personajes_principales WHERE id = @pjId";
                 command.Parameters.Clear();
                 command.Parameters.AddWithValue("@pjId", pjId);
-                
+
                 using (IDataReader reader = command.ExecuteReader())
                 {
                     if (reader.Read())
@@ -58,10 +112,10 @@ public class DatabaseLoader : MonoBehaviour
                     }
                 }
             }
-            
+
             connection.Close();
         }
-        
+
         return pj;
     }
 
@@ -73,24 +127,30 @@ public class DatabaseLoader : MonoBehaviour
 
             using (var command = connection.CreateCommand())
             {
-                var props = typeof(PersonajeData).GetProperties();
-                List<string> setParts = new List<string>();
-
+                command.CommandText = "UPDATE personajes_principales SET" +
+                                      " vida_actual = @vida_actual," +
+                                      " energia_actual = @energia_actual," +
+                                      " FF_actual = @FF_actual," +
+                                      " RF_actual = @RF_actual," +
+                                      " PM_actual = @PM_actual," +
+                                      " RM_actual = @RM_actual," +
+                                      " aggro = @aggro," +
+                                      " incapacitado = @incapacitado," +
+                                      " enfermo = @enfermo" +
+                                      " WHERE id = @id";
+                command.Parameters.Clear();
+                command.Parameters.AddWithValue("@vida_actual", pj.vida_actual);
+                command.Parameters.AddWithValue("@energia_actual", pj.energia_actual);
+                command.Parameters.AddWithValue("@FF_actual", pj.FF_actual);
+                command.Parameters.AddWithValue("@RF_actual", pj.RF_actual);
+                command.Parameters.AddWithValue("@PM_actual", pj.PM_actual);
+                command.Parameters.AddWithValue("@RM_actual", pj.RM_actual);
+                command.Parameters.AddWithValue("@aggro", pj.aggro);
+                command.Parameters.AddWithValue("@incapacitado", pj.incapacitado);
+                command.Parameters.AddWithValue("@enfermo", pj.enfermo);
                 command.Parameters.AddWithValue("@id", pj.id);
 
-                foreach (var prop in props)
-                {
-                    if (prop.Name == "id") continue;
-
-                    object value = prop.GetValue(pj) ?? DBNull.Value;
-                    string paramName = "@" + prop.Name;
-
-                    setParts.Add($"{prop.Name} = {paramName}");
-                    command.Parameters.AddWithValue(paramName, value);
-                }
-
-                string setClause = string.Join(", ", setParts);
-                command.CommandText = $"UPDATE personajes_principales SET {setClause} WHERE id = @id";
+                command.ExecuteNonQuery();
             }
 
             connection.Close();
@@ -181,6 +241,7 @@ public class DatabaseLoader : MonoBehaviour
                         {
                             HabilidadData hab = new HabilidadData
                             {
+                                id = reader.GetInt32(0),
                                 nombre = reader.GetString(1),
                             };
                             opciones.Add(hab);
@@ -198,7 +259,7 @@ public class DatabaseLoader : MonoBehaviour
 
         return opciones;
     }
-    
+
     public static ConsumibleData BuscarConsumible(int id)
     {
         ConsumibleData consumible = null;
@@ -255,6 +316,7 @@ public class DatabaseLoader : MonoBehaviour
                                 ConsumibleData consumible = new ConsumibleData
                                 {
                                     nombre = reader.GetString(1),
+                                    cantidad = reader.GetInt32(2),
                                 };
                                 opciones.Add(consumible);
                             }
@@ -263,6 +325,7 @@ public class DatabaseLoader : MonoBehaviour
                                 ConsumibleData consumible = new ConsumibleData
                                 {
                                     nombre = reader.GetString(1),
+                                    cantidad = reader.GetInt32(2),
                                 };
                                 opciones.Add(consumible);
                             }

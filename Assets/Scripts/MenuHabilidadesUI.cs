@@ -38,7 +38,7 @@ public class MenuHabilidadesUI : MonoBehaviour
             
             BotonHabilidad idHabilidad = nuevoBoton.GetComponent<BotonHabilidad>();
             if (idHabilidad == null) idHabilidad = nuevoBoton.AddComponent<BotonHabilidad>();
-
+            
             idHabilidad.idHabilidad = hab.id;
             
         }
