@@ -31,7 +31,19 @@ public class DatabaseLoader : MonoBehaviour
                         {
                             if (id == 1 || id == 2 || id == 3 || id == 4)
                             {
-                                listaPersonajes.Add(BuscarPersonaje(reader.GetInt32(0)));
+                                PersonajeData pj = BuscarPersonaje(reader.GetInt32(0));
+                                
+                                pj.vida_actual = pj.vida_max;
+                                pj.energia_actual = pj.energia_max;
+                                pj.FF_actual = pj.FF_base;
+                                pj.RF_actual = pj.RF_base;
+                                pj.PM_actual = pj.PM_base;
+                                pj.RM_actual = pj.RM_base;
+                                pj.aggro = 1;
+                                pj.enfermo = 0;
+                                pj.incapacitado = 0;
+                                
+                                listaPersonajes.Add(pj);
                             }
                         }
                         else
@@ -42,14 +54,38 @@ public class DatabaseLoader : MonoBehaviour
                                 {
                                     if (id == 7 || id == 8 || id == 9)
                                     {
-                                        listaPersonajes.Add(BuscarPersonaje(reader.GetInt32(0)));
+                                        PersonajeData pj = BuscarPersonaje(reader.GetInt32(0));
+                                
+                                        pj.vida_actual = pj.vida_max;
+                                        pj.energia_actual = pj.energia_max;
+                                        pj.FF_actual = pj.FF_base;
+                                        pj.RF_actual = pj.RF_base;
+                                        pj.PM_actual = pj.PM_base;
+                                        pj.RM_actual = pj.RM_base;
+                                        pj.aggro = 1;
+                                        pj.enfermo = 0;
+                                        pj.incapacitado = 0;
+                                
+                                        listaPersonajes.Add(pj);
                                     }
                                 }
                                 else
                                 {
                                     if (id == 5 || id == 6)
                                     {
-                                        listaPersonajes.Add(BuscarPersonaje(reader.GetInt32(0)));
+                                        PersonajeData pj = BuscarPersonaje(reader.GetInt32(0));
+                                
+                                        pj.vida_actual = pj.vida_max;
+                                        pj.energia_actual = pj.energia_max;
+                                        pj.FF_actual = pj.FF_base;
+                                        pj.RF_actual = pj.RF_base;
+                                        pj.PM_actual = pj.PM_base;
+                                        pj.RM_actual = pj.RM_base;
+                                        pj.aggro = 1;
+                                        pj.enfermo = 0;
+                                        pj.incapacitado = 0;
+                                
+                                        listaPersonajes.Add(pj);
                                     }
                                 }
                             }
@@ -59,6 +95,11 @@ public class DatabaseLoader : MonoBehaviour
             }
 
             connection.Close();
+        }
+
+        foreach (var pj in listaPersonajes)
+        {
+            ActualizarPersonaje(pj);
         }
 
         return listaPersonajes;
