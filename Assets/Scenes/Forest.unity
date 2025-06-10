@@ -30159,7 +30159,7 @@ MonoBehaviour:
   dialogText: {fileID: 1326104995}
   dialogueCanvas: {fileID: 601781252}
   lettersPerSecond: 20
-  targetScene: Cave
+  targetScene: FinalBattle
   fadeAnimator: {fileID: 2099533806}
   fadeTime: 1
 --- !u!114 &713559630
@@ -94009,7 +94009,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   persistentObjects:
   - {fileID: 664033722}
-  - {fileID: 0}
+  - {fileID: 773902339}
   disableObjects: []
 --- !u!4 &1528457351
 Transform:

@@ -6,19 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-<<<<<<< HEAD
     path: Assets/Scenes/FinalBattle.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-=======
-    path: Assets/Scenes/Town.unity
-    guid: 7a1a8e77e15da6b499093c91e1a06591
+    guid: d1afbfc479a9ea048831e26041298af7
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 77bb03e58e6f64f42b7d604bcc73d57f
   - enabled: 1
     path: Assets/Scenes/Forest.unity
     guid: 01e56ec386c67de43b166ca9edd9b275
   - enabled: 1
-    path: Assets/Scenes/Cave.unity
-    guid: 77bb03e58e6f64f42b7d604bcc73d57f
->>>>>>> dani
-  m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    path: Assets/Scenes/Town.unity
+    guid: 7a1a8e77e15da6b499093c91e1a06591
+  m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Xml.Xsl;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using UnityEngine.UIElements;
 using Button = UnityEngine.UI.Button;
@@ -22,9 +23,33 @@ public class CombatCtrl : MonoBehaviour
     public MenuHabilidadesUI menuHabilidadesUI;
 
     public ScrollRect scrollView;
+    
+    
+    //Variables para la persistencia
+    public string targetScene;
+    public Animator fadeAnimator;
+    public float fadeTime;
+    public Vector3 newPlayerPosition;
+    private Transform player;
 
+    IEnumerator DelayFade(float fadeTime)
+    {
+        yield return new WaitForSeconds(fadeTime);
+        if (player != null)
+        {
+            player.position = newPlayerPosition;
+        }
+        else
+        {
+            Debug.Log("Transform del jugador (player) no está asignado en CombatCtrl.");
+        }
+        SceneManager.LoadScene(targetScene);
+    }
     private void Start()
     {
+        fadeAnimator.Play("FadeToWhite");
+        StartCoroutine(DelayFade(fadeTime));
+        
         PlayerSelect = 0;
         CharacterScript statsP = players.transform.GetChild(PlayerSelect).GetComponent<CharacterScript>();
         statsP.Select(true);
@@ -59,11 +84,17 @@ public class CombatCtrl : MonoBehaviour
 
     private void Update()
     {
-        if (PlayersN == 0)
+        if (PlayersN == 0 || EnemysN == 0)
         {
-        }
-        else if (EnemysN == 0)
-        {
+            //player = collision.transform;
+            // animationa
+            //     animationaa
+            //         a
+            //             a
+            //                 as a
+            //                 aa
+            //                     a
+            //                         a
         }
         else
         {

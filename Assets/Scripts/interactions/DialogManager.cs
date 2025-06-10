@@ -57,7 +57,7 @@ public class DialogManager : MonoBehaviour
             else
             {
                 dialogueCanvas.SetActive(false);
-                if (SceneManager.GetActiveScene().name == "Forest")
+                if (SceneManager.GetActiveScene().name == "Forest" || SceneManager.GetActiveScene().name == "Cave")
                 {
                     fadeAnimator.Play("FadeToWhite");
                     StartCoroutine(DelayFade(fadeTime));
