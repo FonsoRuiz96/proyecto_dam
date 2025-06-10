@@ -52,7 +52,7 @@ public class CombatCtrl : MonoBehaviour
             }
             else
             {
-                cs.pj = DatabaseLoader.AsignarPersonajes(true, false)[i];
+                cs.pj = DatabaseLoader.AsignarPersonajes(false, false)[i];
             }
         }
     }

@@ -9,6 +9,7 @@ public class CharacterScript : MonoBehaviour
     GameObject targets;
     CombatCtrl combatCtrl;
     public GameObject barlife;
+    public GameObject barenergy;
     public GameObject select;
     public SpriteRenderer sr;
 
@@ -250,7 +251,9 @@ public class CharacterScript : MonoBehaviour
 
             if (combatCtrl.EnemysN >= 0 && combatCtrl.PlayersN >= 0)
             {
-                StartCoroutine(AnimHeal(targetPj.vida_max, targetPj.vida_actual));
+                CharacterScript cs = targets.transform.GetChild(target).GetComponent<CharacterScript>();
+                cs.Heal(targetPj.vida_max, targetPj.vida_actual, 0, 0);
+                
             }
 
             if (hab.enferma == 1) targetPj.enfermo = 0;
@@ -393,6 +396,12 @@ public class CharacterScript : MonoBehaviour
         }
     }
 
+    private void Heal(int maxLife, int life, int maxEnergy, int energy)
+    {
+        if (maxLife > 0 && life > 0) StartCoroutine(AnimHeal(maxLife, life));
+        else if (maxEnergy > 0 && energy > 0) StartCoroutine(AnimEnergy(maxEnergy, energy));
+    }
+
     public void Select(bool select)
     {
         this.select.SetActive(select);
@@ -435,5 +444,14 @@ public class CharacterScript : MonoBehaviour
             transform.position = new Vector3(transform.position.x, transform.position.y - mov, transform.position.z);
             yield return new WaitForSecondsRealtime(0.3f);
         }
+    }
+
+    IEnumerator AnimEnergy (int maxEnergy, int energy)
+    {
+        float porcentaje = (float)((double)energy / (double)maxEnergy);
+            if (porcentaje >= 1) porcentaje = 1;
+            barenergy.transform.localScale = new Vector3(porcentaje,
+                barlife.transform.localScale.y, barlife.transform.localScale.z);
+            yield return new WaitForSecondsRealtime(0.3f);
     }
 }
