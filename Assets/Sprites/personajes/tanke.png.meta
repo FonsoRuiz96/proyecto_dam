@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: f1ba0b3454cda994bb8c18b3f2a80739
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2585925349382241084
+    second: tanke_0
+  - first:
+      213: -648738465543379229
+    second: tanke_1
+  - first:
+      213: -6968266934037582541
+    second: tanke_2
+  - first:
+      213: 9089464422112963580
+    second: tanke_3
+  - first:
+      213: 4584381817466311524
+    second: tanke_4
+  - first:
+      213: 6643092131580863711
+    second: tanke_5
+  - first:
+      213: -3593830285738025516
+    second: tanke_6
+  - first:
+      213: 917606886930897349
+    second: tanke_7
+  - first:
+      213: 3519346371686206104
+    second: tanke_8
+  - first:
+      213: -2934149823183472242
+    second: tanke_9
+  - first:
+      213: 4904166906871673027
+    second: tanke_10
+  - first:
+      213: 1464863723800021914
+    second: tanke_11
+  - first:
+      213: 8523608271108661305
+    second: tanke_12
+  - first:
+      213: 4678911420880013555
+    second: tanke_13
+  - first:
+      213: -5653756966558052901
+    second: tanke_14
+  - first:
+      213: -2916443576768779456
+    second: tanke_15
+  - first:
+      213: 5932277145019281189
+    second: tanke_16
+  - first:
+      213: 4263712607769324103
+    second: tanke_17
+  - first:
+      213: 4632851881839757933
+    second: tanke_18
+  - first:
+      213: -224965835075960979
+    second: tanke_19
+  - first:
+      213: 3143978543574487479
+    second: tanke_20
+  - first:
+      213: -6735116168320465366
+    second: tanke_21
+  - first:
+      213: 7419593593623919592
+    second: tanke_22
+  - first:
+      213: 4927751386262595892
+    second: tanke_23
+  - first:
+      213: 5782918556867181069
+    second: tanke_24
+  - first:
+      213: 8537647613946207039
+    second: tanke_25
+  - first:
+      213: 7381671341638101541
+    second: tanke_26
+  - first:
+      213: -133631439017258895
+    second: tanke_27
+  - first:
+      213: -8623662061759653996
+    second: tanke_28
+  - first:
+      213: -7647101414424577000
+    second: tanke_29
+  - first:
+      213: 8195201857800769248
+    second: tanke_30
+  - first:
+      213: -346865040792730362
+    second: tanke_31
+  - first:
+      213: -455791617280863202
+    second: tanke_32
+  - first:
+      213: 1657862554104761701
+    second: tanke_33
+  - first:
+      213: 7254192041556672111
+    second: tanke_34
+  - first:
+      213: 894765234057673744
+    second: tanke_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tanke_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 804
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4c4667892fc1cd0800000000000000
+      internalID: -2585925349382241084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 804
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6a7218dc73ff6f0800000000000000
+      internalID: -648738465543379229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 803
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33de698942ebb4f90800000000000000
+      internalID: -6968266934037582541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 802
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb289edbb3442e70800000000000000
+      internalID: 9089464422112963580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 803
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463d6d059fefe9f30800000000000000
+      internalID: 4584381817466311524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_5
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 804
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4e119d811013c50800000000000000
+      internalID: 6643092131580863711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_6
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 803
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd5b836566202ec0800000000000000
+      internalID: -3593830285738025516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 802
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9d7fa1a9efbbc00800000000000000
+      internalID: 917606886930897349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_8
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 803
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a8ae5f0ea37d030800000000000000
+      internalID: 3519346371686206104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 738
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89bf57184ec747d0800000000000000
+      internalID: -2934149823183472242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 739
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0ff4381d91f0440800000000000000
+      internalID: 4904166906871673027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 740
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bc47dabcd345410800000000000000
+      internalID: 1464863723800021914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 740
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93063040090f94670800000000000000
+      internalID: 8523608271108661305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 739
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f84219b525dee040800000000000000
+      internalID: 4678911420880013555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 739
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddcae96ef1d981b0800000000000000
+      internalID: -5653756966558052901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_15
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 739
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b2a37d406b687d0800000000000000
+      internalID: -2916443576768779456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_16
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 739
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fea0202aea35250800000000000000
+      internalID: 5932277145019281189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_17
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 739
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ae172d600cb2b30800000000000000
+      internalID: 4263712607769324103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 673
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a0f0a9d323b4040800000000000000
+      internalID: 4632851881839757933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 673
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fb2b1d3c2c0ecf0800000000000000
+      internalID: -224965835075960979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 674
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1153fe3d7a1ab20800000000000000
+      internalID: 3143978543574487479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 674
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26c442778f0882a0800000000000000
+      internalID: -6735116168320465366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 673
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebb7bd0011b7f660800000000000000
+      internalID: 7419593593623919592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 673
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439ee9707c3e26440800000000000000
+      internalID: 4927751386262595892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_24
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 674
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a351bc9cd014050800000000000000
+      internalID: 5782918556867181069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_25
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 674
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b99be3541db7670800000000000000
+      internalID: 8537647613946207039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 673
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a2507b9f6f07660800000000000000
+      internalID: 7381671341638101541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 610
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1705d8a0aee352ef0800000000000000
+      internalID: -133631439017258895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 611
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4979dc18b09925880800000000000000
+      internalID: -8623662061759653996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 612
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cf5d797c900e590800000000000000
+      internalID: -7647101414424577000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 612
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee06dc6ba43bb170800000000000000
+      internalID: 8195201857800769248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_31
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 611
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6054c8a4510bf2bf0800000000000000
+      internalID: -346865040792730362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_32
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 611
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e149f5060f3bca9f0800000000000000
+      internalID: -455791617280863202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_33
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 611
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d06df8539e10710800000000000000
+      internalID: 1657862554104761701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_34
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 611
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e73793a311ca460800000000000000
+      internalID: 7254192041556672111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanke_35
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 611
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c706d5d38da6c00800000000000000
+      internalID: 894765234057673744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tanke_0: -2585925349382241084
+      tanke_1: -648738465543379229
+      tanke_10: 4904166906871673027
+      tanke_11: 1464863723800021914
+      tanke_12: 8523608271108661305
+      tanke_13: 4678911420880013555
+      tanke_14: -5653756966558052901
+      tanke_15: -2916443576768779456
+      tanke_16: 5932277145019281189
+      tanke_17: 4263712607769324103
+      tanke_18: 4632851881839757933
+      tanke_19: -224965835075960979
+      tanke_2: -6968266934037582541
+      tanke_20: 3143978543574487479
+      tanke_21: -6735116168320465366
+      tanke_22: 7419593593623919592
+      tanke_23: 4927751386262595892
+      tanke_24: 5782918556867181069
+      tanke_25: 8537647613946207039
+      tanke_26: 7381671341638101541
+      tanke_27: -133631439017258895
+      tanke_28: -8623662061759653996
+      tanke_29: -7647101414424577000
+      tanke_3: 9089464422112963580
+      tanke_30: 8195201857800769248
+      tanke_31: -346865040792730362
+      tanke_32: -455791617280863202
+      tanke_33: 1657862554104761701
+      tanke_34: 7254192041556672111
+      tanke_35: 894765234057673744
+      tanke_4: 4584381817466311524
+      tanke_5: 6643092131580863711
+      tanke_6: -3593830285738025516
+      tanke_7: 917606886930897349
+      tanke_8: 3519346371686206104
+      tanke_9: -2934149823183472242
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

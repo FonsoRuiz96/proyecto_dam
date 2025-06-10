@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: ca30e27486959dd42a4badfde516dce1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3681913702060653605
+    second: Maga2Walk_0
+  - first:
+      213: -3376189312708935584
+    second: Maga2Walk_1
+  - first:
+      213: -1685532242205856335
+    second: Maga2Walk_2
+  - first:
+      213: 7213898253968236303
+    second: Maga2Walk_3
+  - first:
+      213: -1070364964780017855
+    second: Maga2Walk_4
+  - first:
+      213: -7813049874772024575
+    second: Maga2Walk_5
+  - first:
+      213: -6225520999070232027
+    second: Maga2Walk_6
+  - first:
+      213: 7219908886082283345
+    second: Maga2Walk_7
+  - first:
+      213: 2674821083657117906
+    second: Maga2Walk_8
+  - first:
+      213: -8763268787921855563
+    second: Maga2Walk_9
+  - first:
+      213: 8877875310134441977
+    second: Maga2Walk_10
+  - first:
+      213: 7563515736182758693
+    second: Maga2Walk_11
+  - first:
+      213: 2769887243435827033
+    second: Maga2Walk_12
+  - first:
+      213: -6961927604689497274
+    second: Maga2Walk_13
+  - first:
+      213: -5008095359978402729
+    second: Maga2Walk_14
+  - first:
+      213: 6093507726744077401
+    second: Maga2Walk_15
+  - first:
+      213: -3194603203940418900
+    second: Maga2Walk_16
+  - first:
+      213: -8234618083473783861
+    second: Maga2Walk_17
+  - first:
+      213: 7811465081257782407
+    second: Maga2Walk_18
+  - first:
+      213: -8808164697567634600
+    second: Maga2Walk_19
+  - first:
+      213: -8617561765932950316
+    second: Maga2Walk_20
+  - first:
+      213: 3728544085211231157
+    second: Maga2Walk_21
+  - first:
+      213: -3359114991395470982
+    second: Maga2Walk_22
+  - first:
+      213: 6483872759506736850
+    second: Maga2Walk_23
+  - first:
+      213: 9161308401860291455
+    second: Maga2Walk_24
+  - first:
+      213: 1297735743092540051
+    second: Maga2Walk_25
+  - first:
+      213: 7090237869378287269
+    second: Maga2Walk_26
+  - first:
+      213: -8505089542245113587
+    second: Maga2Walk_27
+  - first:
+      213: -8548114653287360528
+    second: Maga2Walk_28
+  - first:
+      213: 1894584862411639374
+    second: Maga2Walk_29
+  - first:
+      213: -571106023142945976
+    second: Maga2Walk_30
+  - first:
+      213: -8389967802983849887
+    second: Maga2Walk_31
+  - first:
+      213: -2610514968409312884
+    second: Maga2Walk_32
+  - first:
+      213: 6551274437069288096
+    second: Maga2Walk_33
+  - first:
+      213: -8825094665870381285
+    second: Maga2Walk_34
+  - first:
+      213: -3355441483835151325
+    second: Maga2Walk_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maga2Walk_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 342
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3080fdef637ecc0800000000000000
+      internalID: -3681913702060653605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 341
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060838935bd5521d0800000000000000
+      internalID: -3376189312708935584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 340
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd2ad52b59cb98e0800000000000000
+      internalID: -1685532242205856335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 339
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f5699bd3aec1460800000000000000
+      internalID: 7213898253968236303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 340
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147734e4cbc4521f0800000000000000
+      internalID: -1070364964780017855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 341
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103adc1c888729390800000000000000
+      internalID: -7813049874772024575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 340
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5221fa4b2a18a99a0800000000000000
+      internalID: -6225520999070232027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_7
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 339
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157ee9111e4423460800000000000000
+      internalID: 7219908886082283345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_8
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 340
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0ab119a9fde1520800000000000000
+      internalID: 2674821083657117906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 277
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb56a8977d926680800000000000000
+      internalID: -8763268787921855563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 277
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f736ccbe8c843b70800000000000000
+      internalID: 8877875310134441977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 278
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d10442d7107f860800000000000000
+      internalID: 7563515736182758693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 278
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fd0ecb5cd907620800000000000000
+      internalID: 2769887243435827033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 277
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6431f7abab3426f90800000000000000
+      internalID: -6961927604689497274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 277
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c843bddcbaf7ab0800000000000000
+      internalID: -5008095359978402729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_15
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 277
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954cda02efc709450800000000000000
+      internalID: 6093507726744077401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_16
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 277
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa7ececf4d7aa3d0800000000000000
+      internalID: -3194603203940418900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_17
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 277
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc389816b72c8bd80800000000000000
+      internalID: -8234618083473783861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 213
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cecbfba16e76c60800000000000000
+      internalID: 7811465081257782407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 213
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b585e00ec13c580800000000000000
+      internalID: -8808164697567634600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 212
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc149f4b35486880800000000000000
+      internalID: -8617561765932950316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 212
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3366047137eb330800000000000000
+      internalID: 3728544085211231157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 212
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a710f2276b60261d0800000000000000
+      internalID: -3359114991395470982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 213
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d61b37fbe75bf950800000000000000
+      internalID: 6483872759506736850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_24
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 212
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b2faae371832f70800000000000000
+      internalID: 9161308401860291455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_25
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 212
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392cb5b58cb720210800000000000000
+      internalID: 1297735743092540051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_26
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 212
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b059c6c5956260800000000000000
+      internalID: 7090237869378287269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 149
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01279b8f1ad7f980800000000000000
+      internalID: -8505089542245113587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 149
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7de7f330ffe5980800000000000000
+      internalID: -8548114653287360528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 150
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ac0e8f4eaea4a10800000000000000
+      internalID: 1894584862411639374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 150
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b8a7909160318f0800000000000000
+      internalID: -571106023142945976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_31
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 149
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ee223cb8d09b80800000000000000
+      internalID: -8389967802983849887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_32
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 149
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c817f13a77695cbd0800000000000000
+      internalID: -2610514968409312884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_33
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 149
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2bc9fe36dcaea50800000000000000
+      internalID: 6551274437069288096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_34
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 149
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fe993a827f68580800000000000000
+      internalID: -8825094665870381285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maga2Walk_35
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 149
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c65639fb31f61d0800000000000000
+      internalID: -3355441483835151325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maga2Walk_0: -3681913702060653605
+      Maga2Walk_1: -3376189312708935584
+      Maga2Walk_10: 8877875310134441977
+      Maga2Walk_11: 7563515736182758693
+      Maga2Walk_12: 2769887243435827033
+      Maga2Walk_13: -6961927604689497274
+      Maga2Walk_14: -5008095359978402729
+      Maga2Walk_15: 6093507726744077401
+      Maga2Walk_16: -3194603203940418900
+      Maga2Walk_17: -8234618083473783861
+      Maga2Walk_18: 7811465081257782407
+      Maga2Walk_19: -8808164697567634600
+      Maga2Walk_2: -1685532242205856335
+      Maga2Walk_20: -8617561765932950316
+      Maga2Walk_21: 3728544085211231157
+      Maga2Walk_22: -3359114991395470982
+      Maga2Walk_23: 6483872759506736850
+      Maga2Walk_24: 9161308401860291455
+      Maga2Walk_25: 1297735743092540051
+      Maga2Walk_26: 7090237869378287269
+      Maga2Walk_27: -8505089542245113587
+      Maga2Walk_28: -8548114653287360528
+      Maga2Walk_29: 1894584862411639374
+      Maga2Walk_3: 7213898253968236303
+      Maga2Walk_30: -571106023142945976
+      Maga2Walk_31: -8389967802983849887
+      Maga2Walk_32: -2610514968409312884
+      Maga2Walk_33: 6551274437069288096
+      Maga2Walk_34: -8825094665870381285
+      Maga2Walk_35: -3355441483835151325
+      Maga2Walk_4: -1070364964780017855
+      Maga2Walk_5: -7813049874772024575
+      Maga2Walk_6: -6225520999070232027
+      Maga2Walk_7: 7219908886082283345
+      Maga2Walk_8: 2674821083657117906
+      Maga2Walk_9: -8763268787921855563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

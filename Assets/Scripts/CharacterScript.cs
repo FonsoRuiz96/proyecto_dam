@@ -252,12 +252,6 @@ public class CharacterScript : MonoBehaviour
             {
                 StartCoroutine(AnimHeal(targetPj.vida_max, targetPj.vida_actual));
             }
-            
-            //if (combatCtrl.EnemysN >= 0 && combatCtrl.PlayersN >= 0)
-            //{
-            //    CharacterScript cs = targets.transform.GetChild(target).GetComponent<CharacterScript>();
-            //    cs.Damage(targetPj.vida_max, targetPj.vida_actual);
-            //}
 
             if (hab.enferma == 1) targetPj.enfermo = 0;
 

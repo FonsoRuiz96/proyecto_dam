@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: a301217294d2ba24ab1a39f1054b1749
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5857046015753615886
+    second: Cura_0
+  - first:
+      213: -2167679653834677285
+    second: Cura_1
+  - first:
+      213: 4986205589650942576
+    second: Cura_2
+  - first:
+      213: -8920109843055508698
+    second: Cura_3
+  - first:
+      213: -5606868900486377922
+    second: Cura_4
+  - first:
+      213: -7213050471668047584
+    second: Cura_5
+  - first:
+      213: -5515291878566837282
+    second: Cura_6
+  - first:
+      213: -7361687178981574518
+    second: Cura_7
+  - first:
+      213: 5038449180249519966
+    second: Cura_8
+  - first:
+      213: 3916186252787189133
+    second: Cura_9
+  - first:
+      213: 1155220811940930925
+    second: Cura_10
+  - first:
+      213: 8388350799472780781
+    second: Cura_11
+  - first:
+      213: -5729789085578761785
+    second: Cura_12
+  - first:
+      213: -3145083054395088963
+    second: Cura_13
+  - first:
+      213: -6073265900846945976
+    second: Cura_14
+  - first:
+      213: 8083778844532633148
+    second: Cura_15
+  - first:
+      213: -512086883618180008
+    second: Cura_16
+  - first:
+      213: -1033360461479305658
+    second: Cura_17
+  - first:
+      213: -7674860874398774944
+    second: Cura_18
+  - first:
+      213: 8633990515934778222
+    second: Cura_19
+  - first:
+      213: -402843915401741048
+    second: Cura_20
+  - first:
+      213: 5812245376446669077
+    second: Cura_21
+  - first:
+      213: -6012827177023677374
+    second: Cura_22
+  - first:
+      213: 6791192576906980921
+    second: Cura_23
+  - first:
+      213: 7481164188984621623
+    second: Cura_24
+  - first:
+      213: 1871509525286977469
+    second: Cura_25
+  - first:
+      213: -6433173328441816323
+    second: Cura_26
+  - first:
+      213: 7575737921877044291
+    second: Cura_27
+  - first:
+      213: -572232637643676171
+    second: Cura_28
+  - first:
+      213: 6865404717940955029
+    second: Cura_29
+  - first:
+      213: 8878224915364967241
+    second: Cura_30
+  - first:
+      213: 1707015686952728949
+    second: Cura_31
+  - first:
+      213: 4815564605644728948
+    second: Cura_32
+  - first:
+      213: 4358576430133160698
+    second: Cura_33
+  - first:
+      213: -8050580699962555242
+    second: Cura_34
+  - first:
+      213: 4293364855528599031
+    second: Cura_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cura_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 383
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f583ed3ea797bea0800000000000000
+      internalID: -5857046015753615886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 383
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3a756f6dadae1e0800000000000000
+      internalID: -2167679653834677285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 382
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a2634d09f823540800000000000000
+      internalID: 4986205589650942576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 381
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6230637cb57653480800000000000000
+      internalID: -8920109843055508698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 382
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e035401766032b0800000000000000
+      internalID: -5606868900486377922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 383
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0212349ffc816eb90800000000000000
+      internalID: -7213050471668047584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 382
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed34d69f14fb573b0800000000000000
+      internalID: -5515291878566837282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 381
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88714db38806d990800000000000000
+      internalID: -7361687178981574518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 382
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5771a7a5da2ce540800000000000000
+      internalID: 5038449180249519966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 318
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8506a7e5a6195630800000000000000
+      internalID: 3916186252787189133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 318
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65a0e4353b280010800000000000000
+      internalID: 1155220811940930925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 319
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de560f5db98696470800000000000000
+      internalID: 8388350799472780781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 319
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9ea243f23bb70b0800000000000000
+      internalID: -5729789085578761785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 318
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf1ea910ab6a54d0800000000000000
+      internalID: -3145083054395088963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 318
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849668937dc67bba0800000000000000
+      internalID: -6073265900846945976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_15
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 318
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e6f27870a5f2070800000000000000
+      internalID: 8083778844532633148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_16
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 318
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8543dc741b3b4e8f0800000000000000
+      internalID: -512086883618180008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_17
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 318
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e9790a224c8a1f0800000000000000
+      internalID: -1033360461479305658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 254
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069cae8a2ba6d7590800000000000000
+      internalID: -7674860874398774944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 254
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63526021a812d770800000000000000
+      internalID: 8633990515934778222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 253
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d3d82e79fc86af0800000000000000
+      internalID: -402843915401741048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_21
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 253
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511a282106e39a050800000000000000
+      internalID: 5812245376446669077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_22
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 253
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c50b13a852e8ca0800000000000000
+      internalID: -6012827177023677374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 254
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e6fcbdaa92f3e50800000000000000
+      internalID: 6791192576906980921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_24
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 253
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a3dc6613f62d760800000000000000
+      internalID: 7481164188984621623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_25
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 253
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf7d706fffe8f910800000000000000
+      internalID: 1871509525286977469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_26
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 253
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa45b331f6c8b6a0800000000000000
+      internalID: -6433173328441816323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 190
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cefe0808d622960800000000000000
+      internalID: 7575737921877044291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 190
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f52d58a2750f08f0800000000000000
+      internalID: -572232637643676171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 191
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597592c6731d64f50800000000000000
+      internalID: 6865404717940955029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 191
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943f95c858ac53b70800000000000000
+      internalID: 8878224915364967241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_31
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 190
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57936de19b980b710800000000000000
+      internalID: 1707015686952728949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_32
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 190
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ae560be7254d240800000000000000
+      internalID: 4815564605644728948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 190
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa2a74ab26cc7c30800000000000000
+      internalID: 4358576430133160698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_34
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 190
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694cd17d187964090800000000000000
+      internalID: -8050580699962555242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cura_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 190
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdade0c698159b30800000000000000
+      internalID: 4293364855528599031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cura_0: -5857046015753615886
+      Cura_1: -2167679653834677285
+      Cura_10: 1155220811940930925
+      Cura_11: 8388350799472780781
+      Cura_12: -5729789085578761785
+      Cura_13: -3145083054395088963
+      Cura_14: -6073265900846945976
+      Cura_15: 8083778844532633148
+      Cura_16: -512086883618180008
+      Cura_17: -1033360461479305658
+      Cura_18: -7674860874398774944
+      Cura_19: 8633990515934778222
+      Cura_2: 4986205589650942576
+      Cura_20: -402843915401741048
+      Cura_21: 5812245376446669077
+      Cura_22: -6012827177023677374
+      Cura_23: 6791192576906980921
+      Cura_24: 7481164188984621623
+      Cura_25: 1871509525286977469
+      Cura_26: -6433173328441816323
+      Cura_27: 7575737921877044291
+      Cura_28: -572232637643676171
+      Cura_29: 6865404717940955029
+      Cura_3: -8920109843055508698
+      Cura_30: 8878224915364967241
+      Cura_31: 1707015686952728949
+      Cura_32: 4815564605644728948
+      Cura_33: 4358576430133160698
+      Cura_34: -8050580699962555242
+      Cura_35: 4293364855528599031
+      Cura_4: -5606868900486377922
+      Cura_5: -7213050471668047584
+      Cura_6: -5515291878566837282
+      Cura_7: -7361687178981574518
+      Cura_8: 5038449180249519966
+      Cura_9: 3916186252787189133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
