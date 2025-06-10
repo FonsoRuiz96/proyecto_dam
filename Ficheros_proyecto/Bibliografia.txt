@@ -1,2 +1,7 @@
 The Unity Tutorial For Complete Beginners - https://youtu.be/XtQMytORBmM?feature=shared
+
 Authoring 2D Levels with Isometric Tilemap in Unity 2018.3! (Tutorial) - https://www.youtube.com/watch?v=544zgvKnbKc&list=PLhsS3O2a5h-tJO_2ScR6t8iDzQNBgeByV&index=6
+
+Unity2D - Crear un sistema de combate por turnos - RPG 2D - https://www.youtube.com/watch?v=iw1Vah-Whrg
+
+6 Minutes MAIN MENU Unity Tutorial - https://www.youtube.com/watch?v=nUNHJMdDuXE
